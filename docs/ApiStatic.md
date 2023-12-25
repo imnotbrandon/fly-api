@@ -1,0 +1,11 @@
+# ApiStatic
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**guest_path** | **str** |  | 
+**url_prefix** | **str** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
